@@ -6,7 +6,7 @@
 # catalog-version 1.0
 Name:		texlive-pst-soroban
 Version:	1.0
-Release:	5
+Release:	6
 Summary:	Draw a Soroban using PSTricks
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-soroban
